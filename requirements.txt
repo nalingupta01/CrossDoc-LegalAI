@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 # CrossDoc-LegalAI core runtime dependencies
 sentence-transformers==3.3.1
 
